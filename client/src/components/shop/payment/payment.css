@@ -1,0 +1,42 @@
+.all{
+    margin: auto;
+    width: 712px !important;
+    
+margin-top: 130px;
+margin-bottom: 80px;
+  box-shadow: 0 3px 6px 0 rgb(0 0 0 / 20%);
+  padding: 4%;
+}
+
+.inputname{
+    border-bottom: 2px solid aqua;
+}
+
+.a{
+    color:#f8ce01;
+}
+
+.pricetopay{
+    font-family: FbPekan-Bold;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 40px;
+    color: #f8ce01;
+}
+
+.bottenpay{
+    background-color: #f8ce01;
+    margin: auto !important;
+    border-bottom: 0px solid white !important;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 27px;
+    font-family: FbPekan-Bold;
+    align-items: center !important;
+}
+
+.bottenpay:hover{
+    filter: brightness(90%);
+}

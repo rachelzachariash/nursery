@@ -1,0 +1,129 @@
+textarea{
+    direction: rtl !important;
+    text-align: right !important;
+    display: inherit;
+    width: 100%;
+}
+
+.title{
+    margin-top: 80px;
+    text-align: center;
+    font-family: FbPekan-Black;
+    font-size: 60px;
+    border-bottom: 4px solid #f8ce01;
+}
+
+p {
+    direction: rtl !important;
+    text-align: right !important;
+    margin-top: 20px;
+    margin-bottom: 1rem;
+}
+
+.btn-primary {
+    color: rgb(0, 0, 0);
+    background-color:#f8ce01 !important;
+    border-color:#f8ce01;
+    padding: 10%;
+}
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    color: #000000;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    margin-bottom: 60px;
+    margin-top: 30px;
+    margin-left: 600px;
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+}
+[type=reset], [type=submit], button, html [type=button] {
+    -webkit-appearance: button;
+}
+
+.btn-primary {
+    color: rgb(0, 0, 0);
+    background-color:#f8ce01 !important;
+    border-color: #f8ce01;
+    padding: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+
+button, select {
+    border:#f8ce01;
+    text-transform: none;
+}
+
+button, input, optgroup, select, textarea {
+    border:#f8ce01;
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+button {
+    border:#f8ce01;
+    border-radius: 0;
+}
+
+
+*, ::after, ::before {
+    box-sizing: border-box;
+    border:#f8ce01;
+}
+
+.pqa{
+    line-height: 0.5;
+    font-size: 30px;
+    color: #f8ce01;
+    
+}
+
+.pAll{
+    margin-right: 100px;
+    margin-left: 100px;
+    font-size: 25px;
+    margin-top: 50px;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 15%);
+    padding: 1%;
+}
+
+.btnsendques{
+   background-color: #f8ce01;
+   padding-right: 35px;
+   padding-left: 35px;
+   font-size: 25px;
+}
+
+.btnnotnow{
+    background-color: #f8ce01;
+    padding-right: 20px;
+   padding-left: 20px;
+   font-size: 25px;
+}
+
+.btnnotnow:hover, .btnsendques:hover{
+    filter: brightness(90%);
+}

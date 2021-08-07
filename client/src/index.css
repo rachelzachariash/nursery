@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: "FbPekan-Regular";
+  src: local("FbPekan-Regular"),
+      url("./fonts/FbPekan-Regular.otf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "FbPekan-Black";
+  src: local("FbPekan-Black"),
+      url("./fonts/FbPekan-Black.otf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "FbPekan-Bold";
+  src: local("FbPekan-Bold"),
+      url("./fonts/FbPekan-Bold.otf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "FbPekan-Light";
+  src: local("FbPekan-Light"),
+      url("./fonts/FbPekan-Light.otf") format("truetype");
+  font-weight: normal;
+}

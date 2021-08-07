@@ -1,0 +1,59 @@
+.puttonHome{
+    width: 50% !important;
+   
+    
+    font-family: FbPekan-Regular;
+    padding: 1% !important;
+    padding-right: 5% !important;
+    padding-left: 5% !important;
+    font-size: 30px;
+    color: rgb(93, 93, 93);
+    margin-top: 300px !important;
+    filter: brightness(100%);
+    border-radius: 50px;
+    background: #ffffff;
+    margin-top: 150px !important;
+}
+.puttonHome{
+    font-family: FbPekan-Bold;
+    color: #000000;
+
+}
+.puttonHome:hover{
+    text-decoration: none;
+    color: black;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 40%);
+}
+
+.allmes{
+    margin-top: 10%;
+    width:50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 60%);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 3%;
+    padding-left: 3%;
+    text-align: center;
+    background-color: #f8ce01;
+}
+
+.p1{
+text-align: center !important;
+font-size: 30px;
+font-family: FbPekan-Bold;
+}
+
+.p2{
+    text-align: center !important;
+    font-size: 30px;
+    margin-bottom: 3% !important;
+    font-family: FbPekan-Bold;
+}
+
+.putton{
+   
+color: #ffffff;
+}
+

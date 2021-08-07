@@ -1,0 +1,21 @@
+input {
+    border: 0;
+    outline: 0;
+    border-bottom: 2px solid rgb(255, 188, 0);
+   
+} 
+
+input.textBox{
+   padding-left: 350px; 
+   border: 0;
+   outline: 0;
+   font-size: 1.4rem;
+   text-align: right;
+   box-shadow: 0 3px 6px 0 rgb(0 0 0 / 15%);
+}
+
+.labeltext{
+    color: #f8ce01;
+}
+
+

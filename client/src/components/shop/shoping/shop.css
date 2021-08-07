@@ -1,0 +1,161 @@
+.container{
+    width: 150px;
+}
+
+.btn{
+    font-family: FbPekan-Bold;
+    font-size: 50px;
+    
+}
+
+
+.shopcatdiv{
+
+   
+   margin-left: 300px;
+}
+
+.imgtype{
+    width: 300px;
+    height: 200px;
+}
+
+.imgtype:hover{
+filter: brightness(80%);
+}
+
+.shoptype{
+    display: inline-block;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 30%);
+    height: 350px;
+    width:325px ;
+    margin-left: 60px;
+    /* padding-top: 10px; */
+    padding-bottom: 30px;
+}
+
+
+.typehed{
+    margin-top: 120px;
+    margin-left: 350px;
+    font-family: FbPekan-Bold ;
+    font-size: 50px;
+    margin-bottom: 60px;
+    margin-right: 200px;
+    border-bottom: 5px solid #f8ce01;
+}
+
+.ptype{
+    text-align: center !important;
+    border-bottom: 3px solid #f8ce01;
+}
+
+.ptype:hover{
+    filter: brightness(90%);
+    color: #bbbbad;
+}
+
+.prodiv{
+    display: inline-block;
+    margin-right: 70px;
+    width: 300px;
+    margin-bottom: 40px;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 10%);
+}
+
+.allprodiv{
+    margin-left: 280px !important;
+    margin-right: 5px !important;
+
+    margin-top: 100px !important;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    width: 300px !important;
+}
+
+.pnamepro{
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    margin: 0px;
+    margin-bottom: 2px;
+    padding-right: 20px;
+padding-top: 7px;
+padding-bottom: 7px;
+}
+
+.pricepro{
+    text-align: right;
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 70px;
+
+}
+
+.addtocartpro{
+    background-color: white;
+    font-size: 30px;
+    display: inline-block;
+    text-align: center !important;
+    margin-left: 75px;
+    left: 30px;
+}
+
+.addtocartpro:hover, .addtocartpro:focus{
+    color: #f8ce01;
+    box-sizing: border-box white !important;
+}
+
+.amountpro{
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-bottom: 2px solid #f8ce01;
+    overflow: visible !important;
+}
+
+
+.amountpro:focus{
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-bottom: 2px solid #f8ce01;
+    overflow: visible !important;
+    border-top: 0px solid white ;
+
+}
+
+*, ::after, ::before {
+    box-sizing: 0px !important;
+   
+}
+
+.addppro{
+    display: inline-block;
+    font-size: 23px;
+    margin-top: 0px;
+    text-align: center !important;
+}
+
+.returnto{
+    margin-top: 100px;
+    margin-left: 380px;
+   font-size: 40px; 
+   font-family: FbPekan-Bold;
+   background: #f8ce01;
+   padding-left: 382px;
+   padding-right: 382px;
+}
+
+.returnto:hover{
+    filter: brightness(90%);
+}
+.notonof{
+    margin-top: -50px;
+    font-size: 30px;
+    color: #f8ce01;
+    font-family: FbPekan-Bold;
+}

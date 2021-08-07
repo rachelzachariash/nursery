@@ -1,0 +1,18 @@
+.con{
+    margin-top: 20px;
+    padding: 5%;
+}
+
+.h11{
+    text-align: center;
+    color: #ffde02;
+    background-color: black;
+    padding: 20px;
+    font-family: FbPekan-Black;
+    font-size: 50px;
+}
+
+.h21{
+    text-align: right !important;
+    font-family: FbPekan-Bold;
+}

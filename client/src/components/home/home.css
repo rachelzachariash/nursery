@@ -1,0 +1,57 @@
+
+body {
+    padding: 0px  !important;
+    font-family: FbPekan-Regular;
+}
+.image {
+    padding: 0px !important;
+    background-image: url("../../picture/home.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    display: table;
+    
+}
+.link{
+
+    height: 150px;
+    width: 150px;
+}
+
+
+.LoginStart {
+    width: 50% !important;
+   
+    
+    font-family: FbPekan-Regular;
+    padding: 1% !important;
+    padding-right: 5% !important;
+    padding-left: 5% !important;
+    font-size: 30px;
+    color: rgb(93, 93, 93);
+    margin-left: 150px !important;
+    margin-top: 300px !important;
+    filter: brightness(100%);
+    border-radius: 50px;
+    background: #f8ce01;
+}
+
+
+.LoginStart:hover {
+    filter: brightness(90%);
+    cursor: pointer;
+    color: rgb(93, 93, 93);
+}
+
+
+
+.abo{
+    text-align: right;
+    font-size: 25px;
+    margin-top: 350px;
+    margin-bottom: 0px;
+    font-family: FbMegaLight;
+    line-height: 30px;
+}

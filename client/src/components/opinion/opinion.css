@@ -1,0 +1,21 @@
+.allop{
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 20%);
+    padding-bottom: 7px;
+    padding-top: 7px;
+    padding-right: 50px;
+    text-align: right;
+    font-size: 40px;
+    margin-top: 40px;
+    line-height: 20px;
+    color: #f8ce01;
+    border-bottom: 2px solid #f8ce01;
+    max-width: 100% !important;
+    overflow: auto;
+    
+    
+}
+
+.opinionp{
+    font-size: 25px;
+    color: black;
+}

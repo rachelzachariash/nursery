@@ -1,0 +1,80 @@
+.cart{
+    top: 50px;
+    position: fixed;
+    left: 0px;
+    border-right: 2px solid black;
+    padding: 2%;
+    display: flex;
+    display: inline-block;
+    max-height: 90%;
+    overflow: auto;
+
+}
+
+.cart1{
+    position: relative;
+    flex-wrap: wrap;
+    height: 90%;
+}
+
+.hedcart{
+    font-size: 40px;
+    font-family: FbPekan-Bold;
+    border-bottom: 2px solid #f8ce01;
+    
+}
+
+.proincart{
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 10%);
+    padding: 2%;
+    margin-bottom: 20px;
+}
+
+.itrash{
+    display: inline-block;
+    background-color: white;
+    font-size: 20px;
+    color: #f8ce01;
+}
+
+.itrash:hover{
+    filter: brightness(90%);
+}
+
+.iamount{
+    display: inline-block;
+    margin-left: 105px;
+    margin-bottom: 0px !important;
+    margin-top: 10px !important;
+    font-size: 17px;
+}
+
+.iname{
+font-size: 23px;
+line-height: 15px;
+font-family: FbPekan-Bold;
+margin-bottom: 0px !important;
+    margin-top: 10px !important;
+    margin-right:10px ;
+}
+
+.lipaycart{
+    background-color: #f8ce01;
+    color: black;
+    margin: auto !important;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.lipaycart:hover{
+    filter: brightness(90%);
+    color: black;
+}
+.allCart{
+    background-color: #f8ce01;
+    color: black;
+    margin: auto !important;
+    padding-right: 30px;
+    padding-left: 30px;
+
+}
